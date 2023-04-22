@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Khalil</h1>
-<h3 align="center">I am a passionate student interested in studying networking and full stack web development using different technologies in front end development like Anguklar, React, Vue. As in backend development using Python, PHP, NodeJS and I'm going to learn Java Spring. In addition to learn graphic design specifically in social media designs, motion graphic & UI/Ux.</h3>
+<h3 align="center">A passionate student is interested in studying networking and full-stack web development using different technologies in front-end development like Angular, React, and Vue. As in backend development using Python, PHP, and NodeJS and I'm going to learn Java Spring. In addition to learning graphic design specifically in social media designs, motion graphics & UI/Ux.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
